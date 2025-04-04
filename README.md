@@ -1,9 +1,11 @@
 - 👋 Hi, I’m @sebab24
-- 👀 I’m interested in Python, Science, Math, Blender, BIOInformatic, IoT, AI, MachineDeep Learning, RapsberryPi, Music(Frigia, Mixolidia, and Doric scales), Universe(the very big and very small things), and...other amazing things
-- 🌱 I’m currently learning BioInformatic, Python, and Blender...
+- 👀 I’m interested in Python, JavaScript, Science, Math, Blender, BIOInformatic, IoT, AI, MachineDeep Learning, RapsberryPi, , Universe(the very big and very small things), and...other amazing things
+- Front End, Apps, Math Modeling; DataAnalisis.
+- 🌱 I’m currently learning BioInformatic, Python, Blender, FreeCAD...
+- Music (Frigia, Mixolidia, and Doric scales)
 - #💞️ I’m looking to collaborate on ...
 - # 📫 How to reach me :   
-
+seba24computacion@gmail.com
 
 
 <!---
